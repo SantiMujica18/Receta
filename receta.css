@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+body{
+    background-color: bisque;
+    border: 10px solid black;
+}
+.imagen{
+    display: flex;
+    height: 100px;
+    justify-content: center;
+}
+.imagen2{
+    border: 2px solid rgb(240, 20, 5);
+    height: 90px;
+}
+.receta{
+font-family: 'Oswald', sans-serif;
+}
+
+.receta1{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(21, 96, 161);
+}
+
+.titulo{
+font-family: 'Oswald', sans-serif;
+}
+
+.ingredientes{
+font-family: 'Oswald', sans-serif;
+color: rgb(21, 96, 161);
+}
+
+.elaboracion{
+    font-family: 'Oswald', sans-serif;
+}
+
+.pasos{
+font-family: 'Oswald', sans-serif;
+    color: rgb(21, 96, 161);
+}
